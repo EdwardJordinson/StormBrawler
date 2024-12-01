@@ -1,0 +1,1 @@
+/usr/bin/cc -Wl,--dependency-file,CMakeFiles/wave.dir/link.d CMakeFiles/wave.dir/wave.c.o -o wave  -Wl,-rpath,/home/kimdoleman/gitrepos/stormbrawler_projects/StormBrawler/glfw-3.4/build/src ../src/libglfw.so.3.4 -lm

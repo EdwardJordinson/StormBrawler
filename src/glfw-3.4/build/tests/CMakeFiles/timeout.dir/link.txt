@@ -1,0 +1,1 @@
+/usr/bin/cc -Wl,--dependency-file,CMakeFiles/timeout.dir/link.d CMakeFiles/timeout.dir/timeout.c.o -o timeout  -Wl,-rpath,/home/kimdoleman/gitrepos/stormbrawler_projects/StormBrawler/glfw-3.4/build/src ../src/libglfw.so.3.4 -lm

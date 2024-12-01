@@ -1,0 +1,1 @@
+/usr/bin/cc -Wl,--dependency-file,CMakeFiles/triangle-opengles.dir/link.d "CMakeFiles/triangle-opengles.dir/triangle-opengles.c.o" -o triangle-opengles  -Wl,-rpath,/home/kimdoleman/gitrepos/stormbrawler_projects/StormBrawler/glfw-3.4/build/src ../src/libglfw.so.3.4 -lm

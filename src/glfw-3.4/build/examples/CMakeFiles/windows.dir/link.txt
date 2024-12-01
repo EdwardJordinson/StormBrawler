@@ -1,0 +1,1 @@
+/usr/bin/cc -Wl,--dependency-file,CMakeFiles/windows.dir/link.d CMakeFiles/windows.dir/windows.c.o -o windows  -Wl,-rpath,/home/kimdoleman/gitrepos/stormbrawler_projects/StormBrawler/glfw-3.4/build/src ../src/libglfw.so.3.4 -lm

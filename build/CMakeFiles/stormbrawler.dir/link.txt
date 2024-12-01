@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file,CMakeFiles/stormbrawler.dir/link.d CMakeFiles/stormbrawler.dir/src/main.cpp.o -o stormbrawler  src/glfw-3.4/src/libglfw3.a /usr/lib/x86_64-linux-gnu/libGLX.so /usr/lib/x86_64-linux-gnu/libOpenGL.so /usr/lib/x86_64-linux-gnu/librt.a -lm -ldl

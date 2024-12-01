@@ -1,0 +1,1 @@
+/usr/bin/cc -Wl,--dependency-file,CMakeFiles/icon.dir/link.d CMakeFiles/icon.dir/icon.c.o -o icon  -Wl,-rpath,/home/kimdoleman/gitrepos/stormbrawler_projects/StormBrawler/glfw-3.4/build/src ../src/libglfw.so.3.4 -lm

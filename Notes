@@ -1,0 +1,4 @@
+02/12/24:
+First day, wasted around 12 hours trying to link the lib. Due to in expirence and a problem with the Wayland display manager I was stuck trying to fix for longer than expected.
+Simple fix via forcing GLFW source library to only use X11.
+Got a window up in the end.
